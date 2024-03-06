@@ -3,7 +3,7 @@
         {
             "id": "0",
             "name": "A",
-            "symbolSize": 143.28,
+            "symbolSize": 107.46,
             "x": 0,
             "y": 0,
             "value": 23.88,
@@ -12,7 +12,7 @@
         {
             "id": "1",
             "name": "B",
-            "symbolSize": 89.34,
+            "symbolSize": 67.005,
             "x": -8,
             "y": -13,
             "value": 14.89,
@@ -21,7 +21,7 @@
         {
             "id": "2",
             "name": "C",
-            "symbolSize": 39.54,
+            "symbolSize": 29.655,
             "x": 1,
             "y": 13,
             "value": 6.59,
@@ -30,7 +30,7 @@
         {
             "id": "3",
             "name": "D",
-            "symbolSize": 74.1,
+            "symbolSize": 55.575,
             "x": 10,
             "y": -15,
             "value": 12.35,
@@ -39,7 +39,7 @@
         {
             "id": "4",
             "name": "E",
-            "symbolSize": 42.06,
+            "symbolSize": 31.545,
             "x": -15,
             "y": 9,
             "value": 7.01,
@@ -48,7 +48,7 @@
         {
             "id": "5",
             "name": "F",
-            "symbolSize": 46.68,
+            "symbolSize": 35.01,
             "x": 4,
             "y": -8,
             "value": 7.78,
@@ -57,7 +57,7 @@
         {
             "id": "6",
             "name": "G",
-            "symbolSize": 52.8,
+            "symbolSize": 39.6,
             "x": 14,
             "y": 7,
             "value": 8.80,
@@ -66,7 +66,7 @@
         {
             "id": "7",
             "name": "H",
-            "symbolSize": 76.62,
+            "symbolSize": 57.465,
             "x": 8,
             "y": 0,
             "value": 12.77,
@@ -75,7 +75,7 @@
         {
             "id": "8",
             "name": "I",
-            "symbolSize": 35.58,
+            "symbolSize": 26.685,
             "x": -13,
             "y": -6,
             "value": 5.93,
