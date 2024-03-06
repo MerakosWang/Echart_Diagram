@@ -86,147 +86,183 @@
     "links": [
         {
             "source": "0",
-            "target": "1"
+            "target": "1",
+            "value": 38.77
         },
         {
             "source": "0",
-            "target": "2"
+            "target": "2",
+            "value": 30.47
         },
         {
             "source": "0",
-            "target": "3"
+            "target": "3",
+            "value": 36.23
         },
         {
             "source": "0",
-            "target": "4"
+            "target": "4",
+            "value": 30.89
         },
         {
             "source": "0",
-            "target": "5"
+            "target": "5",
+            "value": 31.66
         },
         {
             "source": "0",
-            "target": "6"
+            "target": "6",
+            "value": 32.68
         },
         {
             "source": "0",
-            "target": "7"
+            "target": "7",
+            "value": 36.65
         },
         {
             "source": "0",
-            "target": "8"
+            "target": "8",
+            "value": 29.81
         },
         {
             "source": "1",
-            "target": "2"
+            "target": "2",
+            "value": 21.48
         },
         {
             "source": "1",
-            "target": "3"
+            "target": "3",
+            "value": 27.24
         },
         {
             "source": "1",
-            "target": "4"
+            "target": "4",
+            "value": 22.9
         },
         {
             "source": "1",
-            "target": "5"
+            "target": "5",
+            "value": 23.67
         },
         {
             "source": "1",
-            "target": "6"
+            "target": "6",
+            "value": 24.69
         },
         {
             "source": "1",
-            "target": "7"
+            "target": "7",
+            "value": 28.66
         },
         {
             "source": "1",
-            "target": "8"
+            "target": "8",
+            "value": 21.82
         },
         {
             "source": "2",
-            "target": "3"
+            "target": "3",
+            "value": 18.94
         },
         {
             "source": "2",
-            "target": "4"
+            "target": "4",
+            "value": 14.6
         },
         {
             "source": "2",
-            "target": "5"
+            "target": "5",
+            "value": 15.37
         },
         {
             "source": "2",
-            "target": "6"
+            "target": "6",
+            "value": 16.39
         },
         {
             "source": "2",
-            "target": "7"
+            "target": "7",
+            "value": 20.36
         },
         {
             "source": "2",
-            "target": "8"
+            "target": "8",
+            "value": 13.52
         },
         {
             "source": "3",
-            "target": "4"
+            "target": "4",
+            "value": 19.36
         },
         {
             "source": "3",
-            "target": "5"
+            "target": "5",
+            "value": 20.13
         },
         {
             "source": "3",
-            "target": "6"
+            "target": "6",
+            "value": 21.15
         },
         {
             "source": "3",
-            "target": "7"
+            "target": "7",
+            "value": 25.12
         },
         {
             "source": "3",
-            "target": "8"
+            "target": "8",
+            "value": 17.28 
         },
         {
             "source": "4",
-            "target": "5"
+            "target": "5",
+            "value": 14.79 
         },
         {
             "source": "4",
-            "target": "6"
+            "target": "6",
+            "value": 15.81 
         },
         {
             "source": "4",
-            "target": "7"
+            "target": "7",
+            "value": 19.78 
         },
         {
             "source": "4",
-            "target": "8"
+            "target": "8",
+            "value": 11.94 
         },
         {
             "source": "5",
-            "target": "6"
+            "target": "6",
+            "value": 16.58 
         },
         {
             "source": "5",
-            "target": "7"
+            "target": "7",
+            "value": 20.55 
         },
         {
             "source": "5",
-            "target": "8"
+            "target": "8",
+            "value": 12.71 
         },
         {
             "source": "6",
-            "target": "7"
+            "target": "7",
+            "value": 21.57 
         },
         {
             "source": "6",
-            "target": "8"
+            "target": "8",
+            "value": 13.73 
         },
         {
             "source": "7",
-            "target": "8"
+            "target": "8",
+            "value": 18.70 
         }
     ],
     "categories": [
