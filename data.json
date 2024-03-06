@@ -3,7 +3,7 @@
         {
             "id": "0",
             "name": "A",
-            "symbolSize": 71.64,
+            "symbolSize": 143.28,
             "x": 0,
             "y": 0,
             "value": 23.88,
@@ -12,16 +12,16 @@
         {
             "id": "1",
             "name": "B",
-            "symbolSize": 44.67,
+            "symbolSize": 89.34,
             "x": -8,
-            "y": -18,
+            "y": -13,
             "value": 14.89,
             "category": 1
         },
         {
             "id": "2",
             "name": "C",
-            "symbolSize": 19.77,
+            "symbolSize": 39.54,
             "x": 1,
             "y": 13,
             "value": 6.59,
@@ -30,16 +30,16 @@
         {
             "id": "3",
             "name": "D",
-            "symbolSize": 37.05,
-            "x": 14,
-            "y": -20,
+            "symbolSize": 74.1,
+            "x": 10,
+            "y": -15,
             "value": 12.35,
             "category": 3
         },
         {
             "id": "4",
             "name": "E",
-            "symbolSize": 21.03,
+            "symbolSize": 42.06,
             "x": -15,
             "y": 9,
             "value": 7.01,
@@ -48,8 +48,8 @@
         {
             "id": "5",
             "name": "F",
-            "symbolSize": 23.34,
-            "x": 16,
+            "symbolSize": 46.68,
+            "x": 4,
             "y": -8,
             "value": 7.78,
             "category": 5
@@ -57,17 +57,17 @@
         {
             "id": "6",
             "name": "G",
-            "symbolSize": 26.40,
-            "x": 20,
-            "y": 10,
+            "symbolSize": 52.8,
+            "x": 14,
+            "y": 7,
             "value": 8.80,
             "category": 6
         },
         {
             "id": "7",
             "name": "H",
-            "symbolSize": 38.31,
-            "x": 17,
+            "symbolSize": 76.62,
+            "x": 8,
             "y": 0,
             "value": 12.77,
             "category": 7
@@ -75,7 +75,7 @@
         {
             "id": "8",
             "name": "I",
-            "symbolSize": 17.79,
+            "symbolSize": 35.58,
             "x": -13,
             "y": -6,
             "value": 5.93,
